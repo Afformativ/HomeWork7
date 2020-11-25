@@ -1,0 +1,13 @@
+D:\Proga\SolidEx4\SolidEx4\bin\Debug\netcoreapp3.1\SolidEx4.exe
+D:\Proga\SolidEx4\SolidEx4\bin\Debug\netcoreapp3.1\SolidEx4.deps.json
+D:\Proga\SolidEx4\SolidEx4\bin\Debug\netcoreapp3.1\SolidEx4.runtimeconfig.json
+D:\Proga\SolidEx4\SolidEx4\bin\Debug\netcoreapp3.1\SolidEx4.runtimeconfig.dev.json
+D:\Proga\SolidEx4\SolidEx4\bin\Debug\netcoreapp3.1\SolidEx4.dll
+D:\Proga\SolidEx4\SolidEx4\bin\Debug\netcoreapp3.1\SolidEx4.pdb
+D:\Proga\SolidEx4\SolidEx4\obj\Debug\netcoreapp3.1\SolidEx4.csprojAssemblyReference.cache
+D:\Proga\SolidEx4\SolidEx4\obj\Debug\netcoreapp3.1\SolidEx4.AssemblyInfoInputs.cache
+D:\Proga\SolidEx4\SolidEx4\obj\Debug\netcoreapp3.1\SolidEx4.AssemblyInfo.cs
+D:\Proga\SolidEx4\SolidEx4\obj\Debug\netcoreapp3.1\SolidEx4.csproj.CoreCompileInputs.cache
+D:\Proga\SolidEx4\SolidEx4\obj\Debug\netcoreapp3.1\SolidEx4.dll
+D:\Proga\SolidEx4\SolidEx4\obj\Debug\netcoreapp3.1\SolidEx4.pdb
+D:\Proga\SolidEx4\SolidEx4\obj\Debug\netcoreapp3.1\SolidEx4.genruntimeconfig.cache
